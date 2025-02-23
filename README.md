@@ -32,7 +32,7 @@ A saját branchedbe dolgozz, **NE A MAINBE**
 Hosztolás
 --------------
 
-A Terrifico Jelenleg egy saját szerveren van hosztolva. A main branch alapján hosztol
+A Terrifico jelenleg egy saját szerveren van hosztolva. A main branch alapján hosztol
 [El Terrifico](https://terrifico.zapto.org/)
 
 
